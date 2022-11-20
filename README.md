@@ -15,16 +15,18 @@
 4- You can see all transactions that you do in home page by clicking on all transaction button.
 
 ### Screen Shots
-<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/1.jpg" width="500" height="500">
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/1.jpg" width="500" height="600">
 
 <br>
-<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/2.jpg" width="500" height="500">
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/2.jpg" width="500" height="600">
 <br>
-<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/3.jpg" width="500" height="500">
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/3.jpg" width="500" height="600">
 <br>
-<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/4.jpg" width="500" height="500">
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/4.jpg" width="500" height="600">
+
 ### Required Tools
 - Java (Programming Language)
+
 - IDE: Android Studio
 
 ### Youtube Link

@@ -1,9 +1,9 @@
 # Basic-Banking-App
-- This tool convert a temperature value from and to degree Celsius, degree Fahrenheit, Kelvin or degree Rankine measurement units.
+- This application provide 
 
-- This tool also display a conversion scale applicable to each converted temperature.
-
-- The lowest possible temperature is zero Kelvin (0 K), -273.15 °C, -459.67 °F, or 0 °R and this is called absolute zero. Despite this you can still use this tool to convert negative values in Kelvin units.
+    - Display all users with their balance 
+    
+    - Display all transactions with inforation like (from... , to...., amout of money)
 
 ### How To Use
 1- You can see all users with there're balance this by clicking in All Users button in home page
@@ -15,15 +15,14 @@
 4- You can see all transactions that you do in home page by clicking on all transaction button.
 
 ### Screen Shots
-<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/1.jpg" width="100" height="100">
-![Basic-Banking-App](https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/1.jpg =400x400)
-<br>
-![Basic-Banking-App](https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/2.jpg =400x400)
-<br>
-![Basic-Banking-App](https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/3.jpg =400x400)
-<br>
-![Basic-Banking-App](https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/4.jpg =400x400)
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/1.jpg" width="500" height="500">
 
+<br>
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/2.jpg" width="500" height="500">
+<br>
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/3.jpg" width="500" height="500">
+<br>
+<img src="https://github.com/MernaHesham10/Basic-Banking-App/blob/main/Screenshot/4.jpg" width="500" height="500">
 ### Required Tools
 - Java (Programming Language)
 - IDE: Android Studio
